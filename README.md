@@ -30,7 +30,7 @@ Primarily, I would like my tech stack to be:
 
 ### JS/TS
 
-The current programming language I've gotten used to since 2020, ever since I started studying Web Development with Angela Yu.
+The current programming language I've gotten used to since 2020, ever since I started studying [Web Development with Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
 #### Frontend
 
@@ -62,6 +62,12 @@ Learned in school, but I might rarely use.
 ### SQL
 
 I primarily have experience with [MariaDB](https://mariadb.org/)/[MySQL](https://mysql.com/).
+
+### Other Tools
+
+1. [_Docker_](https://www.docker.com/) -- I've been very used to managing docker containers as is, but I do want to learn more advanced ways to orchestrate docker containers through [Kubernetes](https://kubernetes.io/) and learn more about [docker-compose](https://docs.docker.com/compose/).
+2. [_Git_](https://git-scm.com/) -- Ever since I learned Git, i never looked back and it really made me an efficient programmer with it! I'm also learning more about how to take advantage of git even more, with [Conventional Commits](https://www.conventionalcommits.org/).
+3. [*Linux*](https://linux.org/) -- My primary OS for anything development-related. I know that linux should be referred as GNU+Linux, and I know that Linux is the kernel and not the OS, what I mean is that I have learned enough about Linux concepts to understand these things. And the distro I primarily use is [Fedora Linux](https://getfedora.org/).
 
 ## what i'm planning to know
 
