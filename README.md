@@ -20,6 +20,8 @@ Primarily, I would like my tech stack to be:
 
 [**NestJS**](https://nestjs.com/) or [**Golang**](https://go.dev/) for backend,
 
+alternatively, [**Ruby on Rails**](https://rubyonrails.org/) for fullstack, with either VueJS or [**Hotwire**](https://hotwired.dev/)
+
 [**MongoDB**](https://mongodb.com/) or [**PostgreSQL**](https://postgresql.org/) for handling database,
 
 [**AppWrite**](https://appwrite.io/) and other self-hosted services for mostly XaaS ({Platform, Backend, Software} as a Service)
@@ -82,6 +84,10 @@ It is something I have grown fond of using due to its simplicity and flexibility
 ### [_NestJS_](https://nestjs.com/)
 
 The framework I'm getting used to thanks to its very simplex file structure (which is Angular-y).
+
+### [Ruby](https://www.ruby-lang.org/en/) and [Ruby on Rails](https://rubyonrails.org/)
+
+Another framework I'm convinced enough to use that isn't TypeScipt and Golang, and I feel like I might enjoy this more since I have already gotten used to Object-Oriented Programming for the time being.
 
 ## what i already did (COMING SOON)
 
